@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7f5c860-b5ad-43e8-bfc2-75841759550d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="c7f5c860-b5ad-43e8-bfc2-75841759550d" name="변경" comment="ㅎㅇ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,8 +63,16 @@
       <workItem from="1678596009327" duration="2915000" />
       <workItem from="1678682307104" duration="1925000" />
       <workItem from="1678770580497" duration="5160000" />
-      <workItem from="1679027867463" duration="204000" />
+      <workItem from="1679027867463" duration="561000" />
     </task>
+    <task id="LOCAL-00001" summary="ㅎㅇ">
+      <created>1679028149237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679028149237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ㅎㅇ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ㅎㅇ" />
   </component>
 </project>
