@@ -25,15 +25,17 @@
 
 ### 1.1.1 메인 화면
 
-![Animation.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation.gif)
+![메인1](https://github.com/Liveral/React_practice-/assets/101503612/52a2cdb5-1810-4c34-a4b6-43b02af6171f)
+
 
 ### 1.1.2 지역별 관광지바 Slide down
 
-![메인페이지_지역별관광지.png](README%204ad9456f389843ad81d58f4ddc44157a/%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580_%25EC%25A7%2580%25EC%2597%25AD%25EB%25B3%2584%25EA%25B4%2580%25EA%25B4%2591%25EC%25A7%2580.png)
+![메인페이지_지역별관광지](https://github.com/Liveral/React_practice-/assets/101503612/d9f368f6-e023-4fd3-896d-e7c0ab6e2b1d)
+
 
 ### 1.1.3 정보 게시판바 Slide down
 
-![메인페이지_게시판.png](README%204ad9456f389843ad81d58f4ddc44157a/%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580_%25EA%25B2%258C%25EC%258B%259C%25ED%258C%2590.png)
+![메인페이지_게시판](https://github.com/Liveral/React_practice-/assets/101503612/17649233-dabc-4428-9de1-d28748d1fc3c)
 
 ## 1.2 💻 메인 화면 code
 
@@ -153,11 +155,12 @@
 
 ### 2.1.1 회원가입
 
-![Animation2](https://github.com/Liveral/React_practice-/assets/101503612/9fa9f288-fa48-47e0-ad90-9c7c9b80a637)
+![Animation2](https://github.com/Liveral/React_practice-/assets/101503612/a51065c9-2bfe-4de0-a267-27b0bc057562)
+
 
 ### 2.1.2 로그인
 
-![Animation3.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation3.gif)
+![Animation3](https://github.com/Liveral/React_practice-/assets/101503612/0cd0a9b3-d90a-470f-ba24-d83a9e0d4929)
 
 ## 2.2. 💻 code
 
@@ -284,23 +287,26 @@
 
 ### 3.1.1. 게시판 이동
 
-![Animation4.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation4.gif)
+![Animation4](https://github.com/Liveral/React_practice-/assets/101503612/5873b104-8c5a-44f8-9117-2f652ec630ff)
+
 
 ### 3.1.2. 글 목록
 
-![게시판.png](README%204ad9456f389843ad81d58f4ddc44157a/%25EA%25B2%258C%25EC%258B%259C%25ED%258C%2590.png)
+![게시판](https://github.com/Liveral/React_practice-/assets/101503612/113f8f4c-b7de-4ee9-acc2-bd5ef51ce856)
+
 
 ### 3.1.3. 글 쓰기 (초기화 기능 포함)
 
-![Animation5.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation5.gif)
+![Animation5](https://github.com/Liveral/React_practice-/assets/101503612/a3a4d79d-dba2-47ed-9b2f-0771f695905c)
 
 ### 3.1.4. 글 보기
 
-![게시판글.png](README%204ad9456f389843ad81d58f4ddc44157a/%25EA%25B2%258C%25EC%258B%259C%25ED%258C%2590%25EA%25B8%2580.png)
+![게시판글](https://github.com/Liveral/React_practice-/assets/101503612/8eb1616f-c5a4-40ff-9b5b-44e9610b194e)
+
 
 ### 3.1.5. 글 수정
 
-![Animation6.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation6.gif)
+![Animation6](https://github.com/Liveral/React_practice-/assets/101503612/6faaa899-b8f3-407f-a2a2-8bb3a9e0fabd)
 
 ### 3.1.6. 글 삭제
 
