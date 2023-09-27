@@ -153,7 +153,7 @@
 
 ### 2.1.1 회원가입
 
-![Animation2.gif](README%204ad9456f389843ad81d58f4ddc44157a/Animation2.gif)
+![Animation2](https://github.com/Liveral/React_practice-/assets/101503612/9fa9f288-fa48-47e0-ad90-9c7c9b80a637)
 
 ### 2.1.2 로그인
 
